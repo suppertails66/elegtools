@@ -1,0 +1,3 @@
+[submodule "eleg/wla-dx"]
+	path = eleg/wla-dx
+	url = https://github.com/vhelin/wla-dx.git
