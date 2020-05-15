@@ -1,0 +1,170 @@
+
+memory:
+  C014 = "block number" for events?
+  C0A0 = array of 0x36-byte party member status structs?
+          +0x11 = status effect
+                  - 00 = normal
+                  - 01 = dying (D)
+                  - 02 = sleep (S)
+                  - 03 = fear (F)
+                  - 04 = bind (W = ???)
+                  - 05 = poison (P)
+                  - 06 = petrified (R = rock?)
+                  - 07 = illusion (I)
+                  - 08 = confused (C)
+          +0x16? = held equipment
+          +0x26 = held items
+          +0x2E = held medicine
+  C2B0 = money
+  C350 = button input?
+  C390 = text printing y/x position (only updated at end of a textscript)
+  C392 = nonzero if (full?) window open?
+  C393 = 5b buffer for e.g. number bcd conversion
+  C399 = text printing speed?
+  C3A8 = nonzero if (half?) window open??
+  C3AC = 2b ?
+  C3AF = buffer for printing dynamic string content
+         (names, numbers, etc. that need to be inserted in scripts)
+         print with op FD
+  C704 = amount of gold received after battle
+  C706 = amount of EXP received after battle
+  ~C7B2 = enemy stats?
+    - C7B8 = enemy 1 HP?
+  C930 = tilemap buffer?
+         - 1 byte per tile, 25 bytes per row
+         - C949 = start of visible area's top row.
+                  C930 is the off-screen "true" top row?
+
+routines:
+  2B7E = runEventScript?
+  2BAE = seekToTargetScript
+  2BFC = callCmdHandler
+  2C56 = prepEventScript?
+  2C76 = runTextScript?
+  2C87 = scriptPrintLoop
+  2E7C = printDictString
+  2EB3 = alt entry to clearTilemapBuffer with extra operations?
+  2EBF = clearTilemapBuffer?
+  2ECD = printChar
+  2EF3 = charToTilemapBuffer
+         A = char
+         BC = y/x?
+  2FE5 = run a text script in block 4
+         
+  373F = printGoldCount
+  ~3E1A = print character names on status menu?
+  4016 = createWindow
+  ~5028 = print ? string
+  52BD = createMenuWindow
+         ix = src data pointer
+  52CF = alt entry for createMenuWindow
+  52E8 = runMenu
+         ix = src data pointer
+         return Z set if cancelled?
+         otherwise, returns index of choice?
+         - values of IX used:
+           $4071
+           $4079
+           $4081
+           $4089
+           *$4091
+           *$4099
+           
+           *$409E
+           
+           $40A3
+           $40AB
+           $40B3
+           $40BB
+           *$40C3
+           *$40CB
+           $40D3
+           $40DB
+           $40E3
+           
+           *$5240
+           
+           $7B98
+           $7BA0
+           $7BA8
+           $7BB0
+           
+           * = only called with createMenuWindow
+           - start at 4073, 8 bytes each?
+           
+           string content ONLY:
+            $5265
+            $527D
+            $528B
+            52A0
+            52AD
+            52B7
+            7C01
+           
+           
+  53B9 = printCursor?
+
+rom:
+  2BD6 = table of skip lengths for each eventscript command (0x26 entries total).
+         00 = contains embedded textscript.
+         the following commands contain textscripts:
+           - 01 = full-window text
+           
+           we were deceived: these are not actually text, but are terminated
+           with FE like text scripts to make them easier to skip over
+           - 08
+           - 0A
+           - 0F
+           - 10
+           - 17
+           - 1C
+           - 1D
+  2C0A = table of handlers for each eventscript command (0x26 entries total)
+  30000 = table of 3-byte structs containing script block info:
+          - 1b banknum
+          - 2b pointer to start of event scripts for block
+          0x50 entries total?
+
+menu window specifier (see e.g. 4091):
+  1b ?
+  1b ?
+  1b ?
+  2b pointer to text content
+  1b cursor base x?
+  1b cursor base y?
+
+text ops:
+  F9 = dictionary 0
+  FA = dictionary 1
+  FB = dictionary 2, surrounded with [ ]
+  FC = dictionary 3, surrounded with << >>
+
+13A6 = handle scrolling from player movement
+
+
+
+will probably need new opcode for wait + continue...
+
+todo:
+  - dump menus
+  - sound test
+  - remember to seek past old string content after handling new
+    - if id numbers are used for new strings, don't allow FE/FF
+      in either byte of them
+
+
+- whenever we draw a new window, put a blank window on screen before
+  doing the actual window rendering; we may need to overwrite tiles
+  it disposes in order to make things work, and we'll get visible
+  glitches if the removed tiles get recycled before the new tile buffer
+  is sent to the vdp
+  
+TODO:
+  - pharmacy crashing
+
+
+3d446+3d448 = common
+  - 3d6a2 = success
+  - 3d6cd = fail
+
+

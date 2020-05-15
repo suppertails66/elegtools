@@ -1,0 +1,2327 @@
+//===========================================================
+// Text script block 2
+//===========================================================
+
+#STARTBLOCK(2)
+
+//[TEXT]
+#STARTMSG(0x3092C, 6, 2)
+
+// ダガー
+Dagger
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30932, 4, 2)
+
+// パタ
+Pata
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30936, 7, 2)
+
+// クリスナイフ
+Kris Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3093D, 9, 2)
+
+// ショートソード
+Short Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30946, 9, 2)
+
+// ロングソード
+Long Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3094F, 5, 2)
+
+// エストク
+Estoc
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30954, 6, 2)
+
+// タルワール
+Talwar
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3095A, 6, 2)
+
+// レイピア
+Rapier
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30960, 7, 2)
+
+// シャムシール
+Shamshir
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30967, 10, 2)
+
+// バスターソード
+Buster Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30971, 4, 2)
+
+// メイス
+Mace
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30975, 5, 2)
+
+// フレイル
+Flail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3097A, 9, 2)
+
+// バトルアックス
+Battle Axe
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30983, 10, 2)
+
+// モーニングスター
+Morning Star
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3098D, 11, 2)
+
+// ヘーゼルウォンド
+Hazel Wand
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30998, 5, 2)
+
+// スピア
+Spear
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3099D, 7, 2)
+
+// グレイブ
+Glaive
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309A4, 8, 2)
+
+// パルチザン
+Partisan
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309AC, 8, 2)
+
+// ハルバード
+Halberd
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309B4, 8, 2)
+
+// ショートボウ
+Short Bow
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309BC, 8, 2)
+
+// ロングボウ
+Long Bow
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309C4, 12, 2)
+
+// コンポジットボウ
+Composite Bow
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309D0, 7, 2)
+
+// クロスボウ
+Crossbow
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309D7, 11, 2)
+
+// ドラゴントゥース
+Dragon Tooth
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309E2, 8, 2)
+
+// Ｄ・スレイヤー
+D-Slayer
+[waitend]
+//might be "Dragon Slayer"
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309EA, 7, 2)
+
+// ネイリング
+Naegling
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309F1, 10, 2)
+
+// ムーンブレード
+Moon Blade
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309FB, 9, 2)
+
+// ホーリースタッフ
+Holy Staff
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A04, 12, 2)
+
+// サンダーブレード
+Thunder Blade
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A10, 9, 2)
+
+// オーロラ・ファン
+Aurora Fan
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A19, 9, 2)
+
+// ネメシスソード
+Nemesis Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A22, 9, 2)
+
+// ネメシスソード
+Nemesis Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A2B, 9, 2)
+
+// コットンローブ
+Cotton Rope
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A34, 4, 2)
+
+// マント
+Cape
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A38, 9, 2)
+
+// レザーアーマー
+Leather Armor
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A41, 8, 2)
+
+// リングメイル
+Ringmail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A49, 9, 2)
+
+// スケイルアーマー
+Scale Armor
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A52, 9, 2)
+
+// ラメラーアーマー
+Lamellar Armor
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A5B, 11, 2)
+
+// バンデットメイル
+Banded Mail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A66, 8, 2)
+
+// チェインメイル
+Chainmail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A6E, 9, 2)
+
+// プレートメイル
+Platemail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A77, 11, 2)
+
+// ブレストプレート
+Breastplate
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A82, 8, 2)
+
+// シルクローブ
+Silk Robe
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A8A, 9, 2)
+
+// バトルアーマー
+Battle Armor
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A93, 11, 2)
+
+// けんじゃのローブ
+Sage's Robe
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A9E, 8, 2)
+
+// ガイアメイル
+Gaia Mail
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AA6, 8, 2)
+
+// シルフのころも
+Sylph's Gown
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AAE, 9, 2)
+
+// ライオスアーマー
+Armor of Laios
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AB7, 10, 2)
+
+// スモールシールド
+Small Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AC1, 10, 2)
+
+// ラージシールド
+Large Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ACB, 11, 2)
+
+// ラウンドシールド
+Round Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AD6, 9, 2)
+
+// カイトシールド
+Kite Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ADF, 9, 2)
+
+// タワーシールド
+Tower Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AE8, 7, 2)
+
+// バックラー
+Buckler
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AEF, 10, 2)
+
+// クリスタルリング
+Crystal Ring
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AF9, 11, 2)
+
+// マジックシールド
+Magic Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B04, 8, 2)
+
+// にちりんのたて
+Sun Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B0C, 9, 2)
+
+// アンデレのたて
+Andrew's Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B15, 12, 2)
+
+// ゴールドシールド
+Gold Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B21, 7, 2)
+
+// アレスのたて
+Shield of Ares
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B28, 10, 2)
+
+// ボーンシールド
+Bone Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B32, 10, 2)
+
+// ガンマシールド
+Gamma Shield
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B3C, 10, 2)
+
+// リーベラリング
+Libera Ring
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B46, 6, 2)
+
+// イージス
+Aegis
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B4C, 6, 2)
+
+// ターバン
+Turban
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B52, 7, 2)
+
+// バンダナ
+Bandanna
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B59, 7, 2)
+
+// シルクハット
+Silk Hat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B60, 9, 2)
+
+// オープンヘルム
+Helm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B69, 7, 2)
+
+// サークレット
+Circlet
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B70, 7, 2)
+
+// デスマスク
+Death Mask
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B77, 9, 2)
+
+// シルバーヘルム
+Silver Helm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B80, 10, 2)
+
+// ゴールドヘルム
+Gold Helm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B8A, 12, 2)
+
+// ぎんのくびかざり
+Silver Necklace
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B96, 8, 2)
+
+// ロビンハット
+Robin Hat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B9E, 10, 2)
+
+// ミューズリング
+Muse Ring
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BA8, 8, 2)
+
+// イオズヘルム
+Io's Helm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BB0, 11, 2)
+
+// ドラゴンオーブ
+Dragon Orb
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BBB, 8, 2)
+
+// ミストケープ
+Mist Cape
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BC3, 8, 2)
+
+// スターティアラ
+Star Tiara
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BCB, 8, 2)
+
+// アウラリング
+Aura Ring
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BD3, 11, 2)
+
+// メディカルハーブ
+Medical Herbs
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BDE, 11, 2)
+
+// パワータブレット
+Power Tablet
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BE9, 10, 2)
+
+// ヒールポーション
+Heal Potion
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BF3, 10, 2)
+
+// ミードリキュール
+Mead Liqueur
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BFD, 11, 2)
+
+// エナジーリゲイン
+Energy Regain
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C08, 10, 2)
+
+// ミラクルスパイス
+Miracle Spice
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C12, 9, 2)
+
+// キュアマインド
+Cure Mind
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C1B, 10, 2)
+
+// フォースリゲイン
+Force Regain
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C25, 7, 2)
+
+// Ｖドリンク
+V Drink
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C2C, 6, 2)
+
+// エリクサー
+Elixir
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C32, 5, 2)
+
+// テリアカ
+Theriac
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C37, 10, 2)
+
+// ストーンブレイク
+Stone Break
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C41, 10, 2)
+
+// ミトリダティウム
+Mithridatium
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C4B, 10, 2)
+
+// トランキライザー
+Tranquilizer
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C55, 8, 2)
+
+// ベラドンナ
+Belladonna
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C5D, 5, 2)
+
+// セージ
+Sage
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C62, 4, 2)
+
+// シィン
+Shin
+[waitend]
+//Recovers from "Dying" status
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C66, 5, 2)
+
+// レェシュ
+Resh
+[waitend]
+//Restores 25% HP
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C6B, 7, 2)
+
+// レ・レェシュ
+Re Resh
+[waitend]
+//Restores 50% HP
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C72, 10, 2)
+
+// ヴォー・レェシュ
+Vor Resh
+[waitend]
+//Restores all HP
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C7C, 4, 2)
+
+// サメク
+Samekh
+[waitend]
+//Increases DEF by 12%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C80, 6, 2)
+
+// レ・サメク
+Re Samekh
+[waitend]
+//Increases DEF by 25%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C86, 9, 2)
+
+// ヴォー・サメク
+Vor Samekh
+[waitend]
+//Increases DEF by 50%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C8F, 4, 2)
+
+// テェス
+Teth
+[waitend]
+//Increases Attack by 12%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C93, 6, 2)
+
+// レ・テェス
+Re Teth
+[waitend]
+//Increases Attack by 25%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C99, 9, 2)
+
+// ヴォー・テェス
+Vor Teth
+[waitend]
+//Increases Attack by 50%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CA2, 5, 2)
+
+// ギメル
+Gimel
+[waitend]
+//Puts enemy to Sleep
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CA7, 4, 2)
+
+// アイン
+Ayin
+[waitend]
+//Makes enemy Fearful (cannot act)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CAB, 4, 2)
+
+// ケェス
+Heth
+[waitend]
+//Binds enemy (reduces Defense)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CAF, 5, 2)
+
+// ザイン
+Zayin
+[waitend]
+//Poisons enemy (halves Attack)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CB4, 7, 2)
+
+// ペェークゥ
+Pe
+[waitend]
+//Turns enemy to Stone
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CBB, 4, 2)
+
+// メェム
+Mem
+[waitend]
+//100% escape from battle (won't work on bosses)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CBF, 5, 2)
+
+// ダレス
+Dalet
+[waitend]
+//Decreases accuracy
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CC4, 4, 2)
+
+// クォフ
+Qoph
+[waitend]
+//Confuses enemy
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CC8, 6, 2)
+
+// ツァダイ
+Tsade
+[waitend]
+//heal status ailments (25% chance)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CCE, 8, 2)
+
+// レ・ツァダイ
+Re Tsade
+[waitend]
+//heal status ailments (50% chance)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CD6, 11, 2)
+
+// ヴォー・ツァダイ
+Vor Tsade
+[waitend]
+//heal status ailments (100% chance)
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CE1, 6, 2)
+
+// ヘェートォ
+Bet
+[waitend]
+//prevent enemy from casting spells
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CE7, 5, 2)
+
+// ベェス
+He
+[waitend]
+//prevents anyone (enemy and allies) from casting spells
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CEC, 4, 2)
+
+// ヌゥン
+Nun
+[waitend]
+//kills enemy
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF0, 4, 2)
+
+// カェフ
+Kaph
+[waitend]
+//Restores party's HP by 50%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF4, 5, 2)
+
+// ヨッド
+Yodh
+[waitend]
+//Increases party's Defense by 25%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF9, 5, 2)
+
+// ヴァウ
+Waw
+[waitend]
+//Increases party's Attack by 25%
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CFE, 5, 2)
+
+// ラメド
+Lamedh
+[waitend]
+//Inflicts about 50 points of damage with fire
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D03, 7, 2)
+
+// レ・ラメド
+Re Lamedh
+[waitend]
+//Inflicts about 80 points of damage with ice
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D0A, 10, 2)
+
+// ヴォー・ラメド
+Vor Lamedh
+[waitend]
+//Inflicts about 180 points of damage with lightning
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D14, 4, 2)
+
+// アレフ
+Aleph
+[waitend]
+//Inflicts about 75 points of damage with lightning to all enemies
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D18, 4, 2)
+
+// タァウ
+Taw
+[waitend]
+//Teleports to a random major town
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D1C, 10, 2)
+
+// マジックロープ
+Magic Rope
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D26, 7, 2)
+
+// ばくだん
+Bomb
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D2D, 10, 2)
+
+// せいじゃのひかり
+Saint's Light
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D37, 8, 2)
+
+// ひいらぎのみ
+Olive
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D3F, 8, 2)
+
+// まもりのルーン
+Defense Rune
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D47, 11, 2)
+
+// ゲッケイジュのは
+Laurel Leaf
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D52, 10, 2)
+
+// こうげきのルーン
+Attack Rune
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D5C, 7, 2)
+
+// かえんのタネ
+Seed of Fire
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D63, 9, 2)
+
+// いかずちのタネ
+Seed of Thunder
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D6C, 8, 2)
+
+// ヘビーボム
+Heavy Bomb
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D74, 8, 2)
+
+// エビル・アイ
+Evil Eye
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D7C, 7, 2)
+
+// トリカブト
+Monkshood
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D83, 10, 2)
+
+// スプラッタコイン
+Splatter Coin
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D8D, 5, 2)
+
+// Ｉ１４２
+I142
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D92, 12, 2)
+
+// ポイズンニードル
+Poison Needle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D9E, 9, 2)
+
+// コカトリスのツメ
+Cockatrice Talon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DA7, 7, 2)
+
+// アロマツリー
+Aroma Tree
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DAE, 9, 2)
+
+// うらぎりのタネ
+Seed of Betrayal
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DB7, 5, 2)
+
+// えんまく
+Smokescreen
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DBC, 10, 2)
+
+// トートのてんびん
+Thoth's Scales
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DC6, 11, 2)
+
+// スパイダーネット
+Spider Net
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DD1, 8, 2)
+
+// しゅうりセット
+Repair Kit
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DD9, 9, 2)
+
+// きせきのしずく
+Miracle Drop
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DE2, 7, 2)
+
+// おべんとう
+Lunch Box
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DE9, 7, 2)
+
+// せいれいすい
+Sacred Water
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DF0, 8, 2)
+
+// アンブロシア
+Ambrosia
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DF8, 10, 2)
+
+// どうのまねきねこ
+Bronze Beckoning Cat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E02, 10, 2)
+
+// ぎんのまねきねこ
+Silver Beckoning Cat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E0C, 5, 2)
+
+// Ｉ１５７
+I157
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E11, 5, 2)
+
+// Ｉ１５８
+I158
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E16, 5, 2)
+
+// Ｉ１５９
+I159
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E1B, 5, 2)
+
+// Ｉ１６０
+I160
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E20, 5, 2)
+
+// Ｉ１６１
+I161
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E25, 5, 2)
+
+// Ｉ１６２
+I162
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E2A, 5, 2)
+
+// Ｉ１６３
+I163
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E2F, 5, 2)
+
+// Ｉ１６４
+I164
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E34, 5, 2)
+
+// Ｉ１６５
+I165
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E39, 5, 2)
+
+// Ｉ１６６
+I166
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E3E, 5, 2)
+
+// Ｉ１６７
+I167
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E43, 5, 2)
+
+// Ｉ１６８
+I168
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E48, 5, 2)
+
+// Ｉ１６９
+I169
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E4D, 5, 2)
+
+// Ｉ１７０
+I170
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E52, 5, 2)
+
+// Ｉ１７１
+I171
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E57, 5, 2)
+
+// Ｉ１７２
+I172
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E5C, 5, 2)
+
+// Ｉ１７３
+I173
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E61, 5, 2)
+
+// Ｉ１７４
+I174
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E66, 5, 2)
+
+// Ｉ１７５
+I175
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E6B, 5, 2)
+
+// Ｉ１７６
+I176
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E70, 8, 2)
+
+// トールのいかり
+Thor's Wrath
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E78, 10, 2)
+
+// スリープハープ
+Sleep Herbs
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E82, 10, 2)
+
+// ドクロのメダル
+Skull Medal
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E8C, 11, 2)
+
+// ポイズンロッド
+Poison Rod
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E97, 10, 2)
+
+// マジカルフルート
+Magic Flute
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EA1, 9, 2)
+
+// ブリキのたいこ
+Tin Drum
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EAA, 12, 2)
+
+// マッドバンジョー
+Mad Banjo
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EB6, 3, 2)
+
+// ムチ
+Whip
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EB9, 8, 2)
+
+// ホープのつえ
+Flute of Hope
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EC1, 9, 2)
+
+// ひとみすいしょう
+Crystal Eye
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ECA, 10, 2)
+
+// にじのマガタマ
+Rainbow Jewel
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ED4, 9, 2)
+
+// ユニコーンのツノ
+Unicorn's Horn
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EDD, 9, 2)
+
+// ホーリーリング
+Holy Ring
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EE6, 11, 2)
+
+// ピコピコハンマー
+Squeaky Hammer
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EF1, 5, 2)
+
+// めがね
+Glasses
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EF6, 5, 2)
+
+// ルビー
+Ruby
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EFB, 7, 2)
+
+// サングラス
+Sunglasses
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F02, 9, 2)
+
+// ムウオのてがみ
+Muwo's Letter
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F0B, 8, 2)
+
+// えいえんのしょ
+Eternal Manuscript
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F13, 5, 2)
+
+// せいはい
+Chalice
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F18, 9, 2)
+
+// じゃしんぞう
+Evil God Statue
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F21, 8, 2)
+
+// めがみぞう
+Goddess Statue
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F29, 10, 2)
+
+// レムのエメラルド
+Emerald of Lem
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F33, 4, 2)
+
+// アンク
+Ankh
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F37, 9, 2)
+
+// マリーのてがみ
+Marianna's Letter
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F40, 7, 2)
+
+// アミュレット
+Amulet
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F47, 6, 2)
+
+// タリスマン
+Talisman
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F4D, 9, 2)
+
+// クリスタルケース
+Crystal Case
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F56, 8, 2)
+
+// マンドレーク
+Mandrake
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F5E, 7, 2)
+
+// ガスマスク
+Gas Mask
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F65, 8, 2)
+
+// ろうやのカギ
+Jail Key
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F6D, 8, 2)
+
+// そうこのカギ
+Warehouse Key
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F75, 8, 2)
+
+// アルミのカギ
+Aluminum Key
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F7D, 11, 2)
+
+// ブロンズのカギ
+Bronze Key
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F88, 10, 2)
+
+// プラチナのカギ
+Platinum Key
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F92, 10, 2)
+
+// ダーククリスタル
+Dark Crystal
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F9C, 9, 2)
+
+// すいせんじょう
+Reference
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FA5, 12, 2)
+
+// おうごんのだいざ
+Golden Pedestal
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FB1, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FBB, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FC5, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FCF, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FD9, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FE3, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FED, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FF7, 10, 2)
+
+// おうごんのナイフ
+Golden Knife
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31001, 10, 2)
+
+// バースのてちょう
+Barth's Journal
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3100B, 7, 2)
+
+// きょかしょう
+Permit
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31012, 8, 2)
+
+// まどうのしょ
+Grimoire
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3101A, 5, 2)
+
+// Ｉ２２６
+I1226
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3101F, 5, 2)
+
+// Ｉ２２７
+I1227
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31024, 5, 2)
+
+// Ｉ２２８
+I1228
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31029, 5, 2)
+
+// Ｉ２２９
+I1229
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3102E, 9, 2)
+
+// ぎんのこばこ
+Silver Box
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31037, 8, 2)
+
+// おとめのいのり
+Maiden's Prayer
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3103F, 10, 2)
+
+// マジカルランプ
+Magic Lamp
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31049, 7, 2)
+
+// ほのおのはね
+Flame Plume
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31050, 9, 2)
+
+// さびたつるぎ
+Rusty Sword
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31059, 11, 2)
+
+// ブロンズボトル
+Bronze Bottle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31064, 11, 2)
+
+// ボレアスのかがみ
+Mirror of Boreas
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3106F, 9, 2)
+
+// ？？？カプセル
+??? Capsule
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31078, 8, 2)
+
+// アカひこうせき
+Red Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31080, 8, 2)
+
+// シロひこうせき
+White Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31088, 8, 2)
+
+// クロひこうせき
+Black Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31090, 8, 2)
+
+// アオひこうせき
+Blue Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31098, 10, 2)
+
+// ミドリひこうせき
+Green Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310A2, 9, 2)
+
+// キイロひこうせき
+Yellow Levistone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310AB, 9, 2)
+
+// てんくうのコウロ
+Celestial Censer
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310B4, 10, 2)
+
+// ウエポンリペア
+Weapon Repair
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310BE, 10, 2)
+
+// どうのまねきねこ
+Bronze Beckoning Cat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310C8, 10, 2)
+
+// ぎんのまねきねこ
+Silver Beckoning Cat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310D2, 9, 2)
+
+// きんのまねきねこ
+Gold Beckoning Cat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310DB, 5, 2)
+
+// Ｉ２４９
+I1249
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310E0, 5, 2)
+
+// Ｉ２５０
+I1250
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310E5, 5, 2)
+
+// Ｉ２５１
+I1251
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310EA, 5, 2)
+
+// Ｉ２５２
+I1252
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310EF, 5, 2)
+
+// Ｉ２５３
+I1253
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310F4, 5, 2)
+
+// Ｉ２５４
+I1254
+[waitend]
+
+#ENDMSG()
+
+#ENDBLOCK(2)
+

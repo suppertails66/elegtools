@@ -1,0 +1,354 @@
+//===========================================================
+// Event script block 79
+//===========================================================
+
+#STARTBLOCK(79)
+
+//[TEXT]
+#STARTMSG(0x32725, 595, 2)
+
+// ƒ‚Ó‚Ë„‚Í@‚ä‚­EEE[br]
+// ‚í‚©‚à‚Ì‚½‚¿‚ð@‚Ì‚¹[br]
+// ‚Ù‚É@‚©‚º‚ð@‚¢‚Á‚Ï‚É‚Ó‚­‚ç‚Ü‚¹[br]
+// ‚Ý‚ç‚¢‚É‚Þ‚©‚Á‚Ä[br]
+// ƒ‚Ó‚Ë„‚Í@‚ä‚­EEE[br]
+// [br]
+// ‚¢‚Ü@‚©‚Â‚Ä‚Ì@o‚µ‚å‚¤‚Ë‚ñp‚Í[br]
+// ‚Ð‚Æ‚è‚Ì@o‚¹‚¢‚Ë‚ñp‚É[br]
+// ‚¹‚¢‚¿‚å‚¤‚µ‚Ä‚¢‚½EEE[br]
+// [br]
+// ‚»‚µ‚Ä@‚Ð‚Æ‚Â‚Ì[br]
+// ƒ‚à‚Ì‚ª‚½‚è„‚ª@‚¨‚í‚Á‚½EEE[br]
+// ‚µ‚©‚µ@‚»‚ê‚Í[br]
+// ‚ ‚ç‚½‚È‚é@ƒ‚à‚Ì‚ª‚½‚è„‚Ì[br]
+// ‚Í‚¶‚Ü‚è‚Å‚à‚ ‚éEEE[br]
+// [br]
+// [br]
+// ƒ‚¨‚í‚è„‚Í@ƒ‚Í‚¶‚Ü‚è„‚Å‚ ‚è[br]
+// ƒ‚Í‚¶‚Ü‚è„‚Í@ƒ‚¨‚í‚è„‚É‚Â‚Ã‚­[br]
+// ‚»‚µ‚Ä[br]
+// ƒ‚à‚Ì‚ª‚½‚è„‚Í@‚­‚è‚©‚¦‚³‚ê‚é[br]
+// ƒ‚¦‚¢‚¦‚ñ„‚ÉEEE[br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// @@@@@@‚r‚s‚`‚e‚e[br]
+// [br]
+// [br]
+// [br]
+// ‚o‚q‚n‚c‚t‚b‚d‚q[br]
+// @‚m‚d‚j‚n‚s‚n@‚P‚X‚X‚P[br]
+// [br]
+// [br]
+// [br]
+// ‚o‚q‚n‚f‚q‚`‚l‚d‚q[br]
+// @‚r‚g‚n‚f‚nE‚n[br]
+// @‚c‚h‚q‚s‚x@‚`‚j‚h[br]
+// [br]
+// [br]
+// [br]
+// ‚f‚q‚`‚o‚g‚h‚b@‚c‚d‚r‚h‚f‚m‚d‚q[br]
+// @‚`‚o‚nƒ‚s‚`‚l‚`„[br]
+// @‚lE‚s‚`‚j‚`‚g‚`‚r‚g‚h[br]
+// [br]
+// [br]
+// [br]
+// ‚l‚`‚o‚o‚d‚q[br]
+// @‚b‚g‚`‚b‚j‚d‚x@‚s‚`‚m‚`‚j‚`[br]
+// [br]
+// [br]
+// [br]
+// ‚l‚t‚r‚h‚b@‚b‚n‚l‚o‚n‚r‚d‚q[br]
+// @‚x‚`‚r‚t‚j‚`‚y‚tE‚g[br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// ‚r‚o‚d‚b‚h‚`‚k@‚s‚g‚`‚m‚j‚r[br]
+// [br]
+// @‚l‚h‚s‚t‚q‚tE‚s[br]
+// @‚n‚q‚h‚dE‚s[br]
+// @‚i‚n‚g‚m‚m‚x[br]
+// @‚g‚d‚q‚y[br]
+// @‚s‚`‚c‚`‚r‚g‚hE‚j[br]
+// @‚s‚d‚s‚r‚t‚x‚`E‚l[br]
+// @‚g‚h‚c‚d‚g‚h‚q‚nE‚r[br]
+// [br]
+// [br]
+// [br]
+// @‚l‚h‚m[br]
+// @‚s‚`‚q‚n[br]
+// [br]
+// [br]
+// [br]
+// @‚f‚`‚l‚d@‚`‚q‚s‚r[br]
+// [br]
+// @‚i‚`‚o‚`‚m@‚`‚q‚s@‚l‚d‚c‚h‚`[br]
+// [br]
+// @‚o‚q‚d‚r‚d‚m‚s‚d‚c@‚a‚x@‚r‚d‚f‚`[br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+
+The ƒship„ sets off,
+#ENDMSG()
+its sails filled with wind.
+#ENDMSG()
+The young heroes on board
+#ENDMSG()
+look ahead of them,
+#ENDMSG()
+towards their future...
+#ENDMSG()
+
+#ENDMSG()
+He was once a oyoung ladp,
+#ENDMSG()
+but without a doubt,
+#ENDMSG()
+he is now a omanp.
+#ENDMSG()
+
+#ENDMSG()
+One ƒtale„ may have
+#ENDMSG()
+reached its end...
+#ENDMSG()
+But a new ƒtale„ will
+#ENDMSG()
+begin in its place.
+#ENDMSG()
+
+#ENDMSG()
+As every ƒbeginning„ calls
+#ENDMSG()
+for an ƒending„,
+#ENDMSG()
+every ƒending„ will lead
+#ENDMSG()
+to a new ƒbeginning„.
+#ENDMSG()
+That is the nature
+#ENDMSG()
+of every ƒtale„,
+#ENDMSG()
+repeating again and again,
+#ENDMSG()
+for all ƒeternity„...
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+STAFF
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+PRODUCER
+#ENDMSG()
+NEKOTO 1991
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+PROGRAMMER
+#ENDMSG()
+SHOGO O
+#ENDMSG()
+DIRTY AKI
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+GRAPHIC DESIGNER
+#ENDMSG()
+APOƒTAMA„
+#ENDMSG()
+M.TAKAHASHI
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+MAPPER
+#ENDMSG()
+CHACKEY TANAKA
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+MUSIC COMPOSER
+#ENDMSG()
+YASUKAZU H
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+SPECIAL THANKS
+#ENDMSG()
+
+//#ENDMSG()
+MITURU T
+#ENDMSG()
+ORIE T
+#ENDMSG()
+JOHNNY
+#ENDMSG()
+HERZ
+#ENDMSG()
+TADASHI K
+#ENDMSG()
+TETSUYA M
+#ENDMSG()
+HIDEHIRO S
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+//#ENDMSG()
+MIN
+#ENDMSG()
+TARO
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+English Conversion
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+Translation
+#ENDMSG()
+TheMajinZenki
+#ENDMSG()
+
+#ENDMSG()
+Hacking
+#ENDMSG()
+Supper
+#ENDMSG()
+
+#ENDMSG()
+Editing & Testing
+#ENDMSG()
+cccmar
+#ENDMSG()
+
+#ENDMSG()
+//Testing
+#ENDMSG()
+//Xanathis? (maybe?)
+#ENDMSG()
+//Oddoai-sama? (possibly?)
+// xanathis and oddeye refused to have anything to do with this game.
+// traitors >:(
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+GAME ARTS
+#ENDMSG()
+
+#ENDMSG()
+JAPAN ART MEDIA
+#ENDMSG()
+
+#ENDMSG()
+PRESENTED BY SEGA
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+//#ENDMSG()
+
+#ENDBLOCK(79)

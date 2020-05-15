@@ -1,0 +1,458 @@
+//[TEXT]
+#STARTMSG(0x40EB, 9, 0)
+
+<$02><$0A>
+// はい[end]
+// いいえ
+Yes[end]
+No
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x40F4, 18, 0)
+
+<$02><$02>
+// モノをかう[end]
+// モノをうる[end]
+// やめる
+Buy[end]
+Sell[end]
+Leave
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4106, 15, 0)
+
+<$02><$02>
+// アイテム[end]
+// くすり[end]
+// ぶき
+Items[end]
+Medicine[end]
+Weapon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4115, 17, 0)
+
+<$02><$02>
+// モノをかう[end]
+// ちりょう[end]
+// やめる
+Buy[end]
+Cure[end]
+Leave
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4126, 56, 0)
+
+<$05><$02>
+// [decor_left1][decor_left2]　メニュー　[decor_right1][decor_right2][end]
+// [end]
+// 　　さがす[end]
+// 　　ステータス[end]
+// 　　まほう[end]
+// 　　そうび[end]
+// 　　アイテム[end]
+// 　　システム
+//[space5px][decor_left1][decor_left2]  Menu  [decor_right1][decor_right2][end]
+[decor_left1][decor_left2][space8px][space5px]Menu[space5px][space8px][decor_right1][decor_right2][end]
+[end]
+[tilebr][tilebr][tilebr]Search[end]
+[tilebr][tilebr][tilebr]Status[end]
+[tilebr][tilebr][tilebr]Magic[end]
+[tilebr][tilebr][tilebr]Equip[end]
+[tilebr][tilebr][tilebr]Items[end]
+[tilebr][tilebr][tilebr]System
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x415E, 15, 0)
+
+<$01><$06>
+// ＬＶ：[end]
+// ＨＰ：[end]
+// [end]
+// ＭＰ：
+LV:[end]
+HP:[end]
+[end]
+MP:[end]
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x416D, 62, 0)
+
+<$09><$02>
+// 　　ちから：[end]
+// たいりょく：[end]
+// 　すばやさ：[end]
+// 　ちりょく：[end]
+// 　こうげき：[end]
+// 　ぼうぎょ：[end]
+// じょうたい：[end]
+// ＮＥＸＴ：
+STR:[end]
+END:[end]
+SPD:[end]
+INT:[end]
+Attack:[end]
+Defense:[end]
+Status:[end]
+NEXT:
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x41AB, 24, 0)
+
+<$02><$08>
+// ぶき[end]
+// よろい[end]
+// たて[end]
+// オプション[end]
+// やめる
+Weapon[end]
+Armor[end]
+Shield[end]
+Accessory[end]
+//Access.[end]
+Cancel
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x41C3, 17, 0)
+
+<$02><$02>
+// アイテム[end]
+// Ｓアイテム[end]
+// くすり
+Items[end]
+S-Items[end]
+Medicine
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x41D4, 18, 0)
+
+<$02><$0A>
+// つかう[end]
+// わたす[end]
+// すてる[end]
+// やめる
+Use[end]
+Give[end]
+Drop[end]
+Cancel
+[waitend]
+
+#ENDMSG()
+
+
+
+
+//[TEXT]
+#STARTMSG(0x41E6, 53, 0)
+
+<$05><$02>
+// [decor_left1][decor_left2]　システム　[decor_right1][decor_right2][end]
+// [end]
+// 　　セーブ[end]
+// 　　ロード[end]
+// 　　ならびじゅん[end]
+// 　　テキスト　スピード
+[decor_left1][decor_left2][space8px]System[space8px][decor_right1][decor_right2][end]
+[end]
+[tilebr]Save[end]
+[tilebr]Load[end]
+[tilebr]Order[end]
+[tilebr]Text Speed
+
+// NEW
+[end]
+[tilebr]Encounters: On
+
+[waitend]
+
+#ENDMSG()
+
+
+
+
+//=====================================
+// **** NEW *****
+// placed at the fictional position 6 bytes into
+// the menu at 0x421B
+//=====================================
+
+//[TEXT]
+#STARTMSG(0x4221, 10, 0)
+
+<$05><$02>
+// [decor_left1][decor_left2]　システム　[decor_right1][decor_right2][end]
+// [end]
+// 　　セーブ[end]
+// 　　ロード[end]
+// 　　ならびじゅん[end]
+// 　　テキスト　スピード
+[decor_left1][decor_left2][space8px]System[space8px][decor_right1][decor_right2][end]
+[end]
+[tilebr]Save[end]
+[tilebr]Load[end]
+[tilebr]Order[end]
+[tilebr]Text Speed
+
+// NEW
+[end]
+[tilebr]Encounters: Off
+
+[waitend]
+
+#ENDMSG()
+
+
+
+
+
+//====================================
+// SPACE RECYCLED FOR PREVIOUS, NEW MENU!
+// DO NOT UNBACKGROUND THIS!!
+//====================================
+//[TEXT]
+#STARTMSG(0x421B, 14, 0)
+
+<$0D><$08>
+// おそい[end]
+// ふつう[end]
+// はやい
+Slow[end]
+Normal[end]
+Fast
+[waitend]
+
+#ENDMSG()
+
+
+
+
+
+//[TEXT]
+#STARTMSG(0x4229, 16, 0)
+
+<$0C><$08>
+// １：[end]
+// ２：[end]
+// ３：[end]
+// 　やめる
+1:[end]
+2:[end]
+3:[end]
+Cancel
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4239, 19, 0)
+
+<$02><$06>
+// そうび[end]
+// わたす[end]
+// すてる[end]
+// やめる
+Equip[end]
+Give[end]
+Drop[end]
+Cancel
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x424C, 17, 0)
+
+<$02><$02>
+// モノをかう[end]
+// しゅうり[end]
+// やめる
+Buy[end]
+Repair[end]
+Leave
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x425D, 16, 0)
+
+<$03><$02>
+// つづきから[end]
+// はじめから
+Continue[end]
+New Game
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x5248, 29, 0)
+
+<$03><$02>
+// 　　　サウンド　テスト[end]
+// サウンド　ＮＯ[end]
+// ＥＸＩＴ
+[space8px][space8px][space8px][space8px]Sound Test[end]
+Sound No.[end]
+Exit
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x7BB8, 12, 0)
+
+<$02><$0A>
+// たたかう[end]
+// にげる
+Fight[end]
+Run
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x7BC4, 20, 0)
+
+<$02><$0A>
+// こうげき[end]
+// ぼうぎょ[end]
+// アイテム
+Attack[end]
+Guard[end]
+Items
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x7BD8, 24, 0)
+
+<$02><$0A>
+// こうげき[end]
+// ぼうぎょ[end]
+// アイテム[end]
+// まほう
+Attack[end]
+Guard[end]
+Items[end]
+Magic
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x7BF0, 17, 0)
+
+<$06><$0C>
+// アイテム[end]
+// Ｓアイテム[end]
+// くすり
+Items[end]
+S-Items[end]
+Medicine
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x528B, 21, 0)
+
+<$01><$04>
+// [decor_left1][decor_left2]ＥＴＥＲＮＡＬ　ＬＥＧＥＮＤ[decor_right1][decor_right2]
+[space8px][space8px][space3px][decor_left1][decor_left2][space1px]ETERNAL  LEGEND[decor_right1][decor_right2]
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x52A0, 13, 0)
+
+<$05><$0B>
+// ＣＲＥＡＴＥＤ　ＢＹ
+[space8px][space8px]CREATED BY
+[waitend]
+
+#ENDMSG()
+
+
+// JVM logo graphic even rows
+#STARTMSG(0x52AD, 10, 0)
+
+<$07><$0D>
+[space5px][space8px]<$B8>[end]
+[space5px]<$BC><$BD><$BE><$BF>
+[waitend]
+
+#ENDMSG()
+
+// JVM logo graphic odd rows
+#STARTMSG(0x52B7, 6, 0)
+
+<$08><$0E>
+[space5px]<$B9><$BA><$BB>
+[waitend]
+
+#ENDMSG()
+
+#STARTMSG(0x5265, 24, 0)
+
+//<$04><$0B>
+<$04><$0C>
+[space4px]Press Start Button
+[waitend]
+
+#ENDMSG()
+
+// "copyright sega 1991"
+#STARTMSG(0x527D, 14, 0)
+
+<$04><$10>
+[space5px]<$D0>[space8px]<$D1><$D2><$D3><$D4>[space8px]<$D5><$D6><$D6><$D5>
+[waitend]
+
+#ENDMSG()
+
+
+
+//[TEXT]
+#STARTMSG(0x7C01, 18, 0)
+
+<$09><$0C>
+// ＨＰ：[end]
+// ＭＰ：[end]
+// じょうたい：
+HP:[end]
+MP:[end]
+Status:
+[waitend]
+
+#ENDMSG()
+

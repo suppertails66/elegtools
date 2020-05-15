@@ -1,0 +1,1278 @@
+//===========================================================
+// Text script block 3
+//===========================================================
+
+#STARTBLOCK(3)
+
+//[TEXT]
+#STARTMSG(0x310F9, 10, 2)
+
+// グリーンスライム
+Green Slime
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31103, 9, 2)
+
+// ブルースライム
+Blue Slime
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3110C, 8, 2)
+
+// グレイオース
+Grey Ooze
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31114, 6, 2)
+
+// モールド
+Mold
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3111A, 4, 2)
+
+// リーチ
+Leech
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3111E, 7, 2)
+
+// ウォーラット
+War Rat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31125, 7, 2)
+
+// カピパラ
+Capybara
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3112C, 7, 2)
+
+// ベアラット
+Bear Rat
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31133, 8, 2)
+
+// カーバンクル
+Carbuncle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3113B, 10, 2)
+
+// ウィルオウィスプ
+Will-o'-wisp
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31145, 6, 2)
+
+// ファントム
+Phantom
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3114B, 6, 2)
+
+// シェード
+Shade
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31151, 6, 2)
+
+// シャドー
+Shadow
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31157, 8, 2)
+
+// ボーイング
+Boing
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3115F, 12, 2)
+
+// ボンバーディアー
+Bombardier
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3116B, 6, 2)
+
+// ライノソス
+Rhinoceros
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31171, 10, 2)
+
+// ファイアビートル
+Fire Beetle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3117B, 11, 2)
+
+// ポルターガイスト
+Poltergeist
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31186, 6, 2)
+
+// ゴースト
+Ghost
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3118C, 4, 2)
+
+// レイス
+Wraith
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31190, 7, 2)
+
+// スペクター
+Specter
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31197, 8, 2)
+
+// ウォードック
+Wardog
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3119F, 7, 2)
+
+// ゴーゴン
+Gorgon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311A6, 4, 2)
+
+// ウルフ
+Wolf
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311AA, 8, 2)
+
+// ヘルハウンド
+Hell Hound
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311B2, 11, 2)
+
+// バンダースナッチ
+Bandersnatch
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311BD, 9, 2)
+
+// アタックスネーク
+Attack Snake
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311C6, 5, 2)
+
+// コブラ
+Cobra
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311CB, 9, 2)
+
+// ストーアウォーム
+Stoor Worm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311D4, 9, 2)
+
+// バビロニアン
+Babylonian
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311DD, 7, 2)
+
+// ゴブリン
+Goblin
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311E4, 5, 2)
+
+// インプ
+Imp
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311E9, 12, 2)
+
+// ゴブリンゾンビ
+Goblin Zombie
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311F5, 7, 2)
+
+// ボーグル
+Boggle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x311FC, 9, 2)
+
+// デモゴーモン
+Demogorgon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31205, 7, 2)
+
+// グレムリン
+Gremlin
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3120C, 6, 2)
+
+// ピクシー
+Pixie
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31212, 8, 2)
+
+// サッキュバス
+Succubus
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3121A, 5, 2)
+
+// ハッグ
+Hag
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3121F, 4, 2)
+
+// オーク
+Orc
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31223, 9, 2)
+
+// オークゾンビ
+Orc Zombie
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3122C, 8, 2)
+
+// ピッグマン
+Pig Man
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31234, 7, 2)
+
+// ハーフオーク
+Half-Orc
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3123B, 9, 2)
+
+// リザードマン
+Lizard Man
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31244, 10, 2)
+
+// クロコダイルマン
+Crocodile Man
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3124E, 10, 2)
+
+// ゲイビアルマン
+Gavial Man
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31258, 10, 2)
+
+// アリゲーターマン
+Alligator Man
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31262, 6, 2)
+
+// ベリアル
+Belial
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31268, 12, 2)
+
+// ゴールドビースト
+Golden Beast
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31274, 8, 2)
+
+// インキュバス
+Incubus
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3127C, 8, 2)
+
+// ガーゴイル
+Gargoyle
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31284, 6, 2)
+
+// コボルト
+Kobold
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3128A, 7, 2)
+
+// ウェアウルフ
+Werewolf
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31291, 9, 2)
+
+// バグベアー
+Bugbear
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3129A, 10, 2)
+
+// ライカンスロープ
+Lycanthrope
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312A4, 4, 2)
+
+// マミー
+Mummy
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312A8, 5, 2)
+
+// グール
+Ghoul
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312AD, 6, 2)
+
+// ガースト
+Ghast
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312B3, 6, 2)
+
+// ゾンビ
+Zombie
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312B9, 4, 2)
+
+// トロル
+Troll
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312BD, 10, 2)
+
+// ホブゴブリン
+Hobgoblin
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312C7, 8, 2)
+
+// ストーントロル
+Stone Troll
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312CF, 5, 2)
+
+// オグル
+Ogre
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312D4, 6, 2)
+
+// スケルトン
+Skeleton
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312DA, 10, 2)
+
+// ボーンゴーレム
+Bone Golem
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312E4, 9, 2)
+
+// スケルトンナイト
+Skeleton Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312ED, 11, 2)
+
+// ツーヘッドボーン
+Two-headed Bone
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312F8, 5, 2)
+
+// ティック
+Tick
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x312FD, 12, 2)
+
+// ヘッジスパイダー
+Hedge Spider
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31309, 12, 2)
+
+// ラージスパイダー
+Large Spider
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31315, 8, 2)
+
+// アントライオン
+Antlion
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3131D, 9, 2)
+
+// マミーゴースト
+Mummy Ghost
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31326, 4, 2)
+
+// ミイラ
+Ancient Mummy
+[waitend]
+//"miira" is just another word for "mummy" in Japanese (from the portuguese word "mirra"), so I just added an adjective to make it different.
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3132A, 11, 2)
+
+// ゴーラソルジャー
+Gaura Soldier
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31335, 10, 2)
+
+// ソルジャーナイト
+Soldier Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3133F, 5, 2)
+
+// ミミック
+Mimic
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31344, 9, 2)
+
+// ボックスワーム
+Box Worm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3134D, 11, 2)
+
+// ミミックジャガー
+Mimic Jager
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31358, 10, 2)
+
+// ミミックマーダー
+Mimic Murder
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31362, 11, 2)
+
+// クローズボックス
+Closed Box
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3136D, 10, 2)
+
+// キラートレジャー
+Killer Treasure
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31377, 7, 2)
+
+// コッカトリス
+Cockatrice
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3137E, 8, 2)
+
+// バジリスク
+Basilisk
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31386, 6, 2)
+
+// ファイター
+Fighter
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3138C, 8, 2)
+
+// バンテッド
+Bandit
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31394, 4, 2)
+
+// シーフ
+Thief
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31398, 6, 2)
+
+// さんぞく
+Brigand
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3139E, 10, 2)
+
+// フォートキーパー
+Fort Keeper
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313A8, 7, 2)
+
+// トルーパー
+Trooper
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313AF, 8, 2)
+
+// ゴーラナイト
+Gaura Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313B7, 9, 2)
+
+// コマンドナイト
+Command Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313C0, 5, 2)
+
+// ネッソス
+Nessos
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313C5, 6, 2)
+
+// ルジェロ
+Ruggero
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313CB, 6, 2)
+
+// ハスキュン
+Haethcyn
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313D1, 6, 2)
+
+// カドモス
+Cadmus
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313D7, 5, 2)
+
+// キルケー
+Circe
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313DC, 8, 2)
+
+// グレンデル
+Grendel
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313E4, 5, 2)
+
+// イフォン
+Yphon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313E9, 9, 2)
+
+// くろしょうぞく
+Black Robe
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313F2, 10, 2)
+
+// ゴーラまどうし
+Gaura Sorcerer
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x313FC, 5, 2)
+
+// サントス
+Thanatos
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31401, 6, 2)
+
+// マーネース
+Manes
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31407, 9, 2)
+
+// デモゴーモン
+Demogorgon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31410, 8, 2)
+
+// アスモデウス
+Asmodeus
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31418, 10, 2)
+
+// イフォンデーモン
+Yphon Demon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31422, 6, 2)
+
+// モーロック
+Morlock
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31428, 8, 2)
+
+// キング・レム
+King Lem
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31430, 8, 2)
+
+// サイクロプス
+Cyclops
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31438, 8, 2)
+
+// クラウド・Ｇ
+Cloud Giant
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31440, 10, 2)
+
+// ファイアゴーレム
+Fire Golem
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3144A, 8, 2)
+
+// ギガンテス
+Gigantes
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31452, 10, 2)
+
+// ストーンゴーレム
+Stone Golem
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3145C, 7, 2)
+
+// フロスト・Ｇ
+Frost Giant
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31463, 6, 2)
+
+// ティターン
+Titan
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31469, 7, 2)
+
+// ストーム・Ｇ
+Storm Giant
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31470, 8, 2)
+
+// サラマンダー
+Salamander
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31478, 5, 2)
+
+// スキュラ
+Scylla
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3147D, 6, 2)
+
+// ワイアーム
+Wyrm
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31483, 12, 2)
+
+// カッパードラゴン
+Copper Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3148F, 7, 2)
+
+// ブレイズ
+Blaise
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31496, 12, 2)
+
+// シルバードラゴン
+Silver Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314A2, 11, 2)
+
+// レッドドラゴン
+Red Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314AD, 7, 2)
+
+// ラガード
+Laggard
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314B4, 11, 2)
+
+// ブルードラゴン
+Blue Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314BF, 13, 2)
+
+// ゴールドドラゴン
+Gold Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314CC, 12, 2)
+
+// グリーンドラゴン
+Green Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314D8, 7, 2)
+
+// キュクレイン
+Cuchulain
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314DF, 5, 2)
+
+// ギィー
+Guy
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314E4, 6, 2)
+
+// フェアリー
+Fairy
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314EA, 6, 2)
+
+// ユニコーン
+Unicorn
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314F0, 4, 2)
+
+// ジン
+Djinn
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314F4, 9, 2)
+
+// フレイファルコン
+Freyr's Falcon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x314FD, 7, 2)
+
+// ナイトソウル
+Knight's Soul
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31504, 7, 2)
+
+// イーフリート
+Ifrit
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3150B, 8, 2)
+
+// シルフィード
+Sylphid
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31513, 12, 2)
+
+// プラチナドラゴン
+Platinum Dragon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3151F, 8, 2)
+
+// ダークナイト
+Dark Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31527, 8, 2)
+
+// ダークナイト
+Dark Knight
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3152F, 8, 2)
+
+// ブルームーン
+Blue Moon
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31537, 5, 2)
+
+// オルド
+Orde
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3153C, 7, 2)
+
+// ギュルナス
+Gulnath
+[waitend]
+
+#ENDMSG()
+
+#ENDBLOCK(3)
+

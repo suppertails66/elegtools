@@ -1,0 +1,12 @@
+
+//[TEXT]
+#STARTMSG(0x3E28, 9, 1)
+
+// dashes for blank inventory/party slots
+// [ -][- ][ -][- ][ -][- ][ -][- ]
+[ -][- ][ -][- ][ -][- ][ -][- ]
+
+[waitend]
+
+#ENDMSG()
+

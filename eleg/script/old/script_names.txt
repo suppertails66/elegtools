@@ -1,0 +1,76 @@
+//===========================================================
+// Text table 0x3FE1
+//===========================================================
+
+//[TEXT]
+#STARTMSG(0x3FE1, 7, 2)
+
+// アルヴィン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3FE8, 8, 2)
+
+// ブルームーン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3FF0, 6, 2)
+
+// フォスター
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3FF6, 7, 2)
+
+// エヴァンス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3FFD, 9, 2)
+
+// プロセルピナ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4006, 4, 2)
+
+// リアル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x400A, 7, 2)
+
+// ナディーン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x4011, 5, 2)
+
+// バース
+
+[waitend]
+
+#ENDMSG()
+

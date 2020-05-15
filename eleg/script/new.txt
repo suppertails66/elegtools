@@ -1,0 +1,255 @@
+//#SETSIZE(144, 8)
+#SETSIZE(144, -1)
+
+//=========================================================
+// new messages for "[x] hit [y] for [z] damage"
+//=========================================================
+
+#STARTMSG(0x0, 0, 2)
+
+[scrollout]
+[buf] hit[br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x1, 0, 2)
+
+[buf] for 
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x2, 0, 2)
+
+[buf][br]
+points of damage!
+[end]
+
+#ENDMSG()
+
+// alt message if 1 damage
+#STARTMSG(0x3, 0, 2)
+
+[buf][br]
+point of damage!
+[end]
+
+#ENDMSG()
+
+// alt message if not result of a standard attack
+#STARTMSG(0x4, 0, 2)
+
+Dealt [buf] points[br]
+of damage!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x5, 0, 2)
+
+Dealt [buf] point[br]
+of damage!
+[end]
+
+#ENDMSG()
+
+//=========================================================
+// possessive subject
+//=========================================================
+
+#STARTMSG(0x6, 0, 2)
+
+[scrollout]
+[buf]'s 
+[end]
+
+#ENDMSG()
+
+//=========================================================
+// in-battle stat increase messages
+// (require additional linebreaks compared to normal ones)
+//=========================================================
+
+#STARTMSG(0x7, 0, 2)
+
+// ＭＡＸ　ＨＰが　[buf]あがった！[br]
+'s Max HP[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x8, 0, 2)
+
+// ＭＡＸ　ＭＰが　[buf]あがった！[br]
+'s Max MP[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x9, 0, 2)
+
+// ちからが　[buf]あがった！[br]
+'s STR[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xA, 0, 2)
+
+// たいりょくが　[buf]あがった！[br]
+'s END[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xB, 0, 2)
+
+// すばやさが　[buf]あがった！[br]
+'s SPD[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xC, 0, 2)
+
+// ちりょくが　[buf]あがった！[br]
+'s INT[br]
+increased by [buf]![br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xD, 0, 2)
+
+// ぼうぎょりょくが　[buf]あがった！
+'s Defense[br]
+increased by [buf]!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xE, 0, 2)
+
+// こうげきりょくが　[buf]あがった！
+'s Attack[br]
+increased by [buf]!
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0xF, 0, 2)
+
+// すばやさが　[buf]さがった！
+'s SPD[br]
+decreased by [buf]!
+[end]
+
+#ENDMSG()
+
+//=========================================================
+// using s-items from menu
+//=========================================================
+
+#STARTMSG(0x10, 0, 2)
+
+// [buf]を　つかった。[br]
+// [br]
+Used [buf].[br]
+[br]
+
+[wait]
+[end]
+
+#ENDMSG()
+
+//=========================================================
+// using items/spells in menu
+//=========================================================
+
+#STARTMSG(0x11, 0, 2)
+
+// [buf]を　つかった。[br]
+// [br]
+ used[br]
+[buf] on[br]
+[end]
+
+#ENDMSG()
+
+#STARTMSG(0x12, 0, 2)
+
+// [buf]の[br]
+// まほうをとなえた。[br]
+// [br]
+
+//cast the spell[br]
+//[buf].[br]
+//[br]
+ cast the spell[br]
+[buf] on[br]
+[end]
+
+#ENDMSG()
+
+// #STARTMSG(0x13, 0, 2)
+// 
+// // [buf]に[br]
+// [buf].[br]
+// [wait]
+// [end]
+// 
+// #ENDMSG()
+
+#STARTMSG(0x13, 0, 2)
+
+// [buf]を　つかった。[br]
+// [br]
+Used [buf][br]
+on 
+[end]
+
+#ENDMSG()
+
+//=========================================================
+// sourceless battle damage
+//=========================================================
+
+//#STARTMSG(0x14, 0, 2)
+//
+//// [buf]のダメージをあたえた！
+//[buf] points of damage![br]
+//
+//[end]
+//
+//#ENDMSG()
+//
+//#STARTMSG(0x15, 0, 2)
+//
+//// [buf]に[br]
+//to [buf]!
+//
+//[end]
+//
+//#ENDMSG()
+
+//=========================================================
+// enemy lists
+//=========================================================
+
+#STARTMSG(0x14, 0, 2)
+
+[buf],[br]
+[end]
+
+#ENDMSG()
+
+
+
+
+

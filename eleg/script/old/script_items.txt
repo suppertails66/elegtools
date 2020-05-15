@@ -1,0 +1,2294 @@
+//===========================================================
+// Text script block 2
+//===========================================================
+
+#STARTBLOCK(2)
+
+//[TEXT]
+#STARTMSG(0x3092C, 6, 2)
+
+// ダガー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30932, 4, 2)
+
+// パタ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30936, 7, 2)
+
+// クリスナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3093D, 9, 2)
+
+// ショートソード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30946, 9, 2)
+
+// ロングソード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3094F, 5, 2)
+
+// エストク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30954, 6, 2)
+
+// タルワール
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3095A, 6, 2)
+
+// レイピア
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30960, 7, 2)
+
+// シャムシール
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30967, 10, 2)
+
+// バスターソード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30971, 4, 2)
+
+// メイス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30975, 5, 2)
+
+// フレイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3097A, 9, 2)
+
+// バトルアックス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30983, 10, 2)
+
+// モーニングスター
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3098D, 11, 2)
+
+// ヘーゼルウォンド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30998, 5, 2)
+
+// スピア
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3099D, 7, 2)
+
+// グレイブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309A4, 8, 2)
+
+// パルチザン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309AC, 8, 2)
+
+// ハルバード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309B4, 8, 2)
+
+// ショートボウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309BC, 8, 2)
+
+// ロングボウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309C4, 12, 2)
+
+// コンポジットボウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309D0, 7, 2)
+
+// クロスボウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309D7, 11, 2)
+
+// ドラゴントゥース
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309E2, 8, 2)
+
+// Ｄ・スレイヤー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309EA, 7, 2)
+
+// ネイリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309F1, 10, 2)
+
+// ムーンブレード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x309FB, 9, 2)
+
+// ホーリースタッフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A04, 12, 2)
+
+// サンダーブレード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A10, 9, 2)
+
+// オーロラ・ファン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A19, 9, 2)
+
+// ネメシスソード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A22, 9, 2)
+
+// ネメシスソード
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A2B, 9, 2)
+
+// コットンローブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A34, 4, 2)
+
+// マント
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A38, 9, 2)
+
+// レザーアーマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A41, 8, 2)
+
+// リングメイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A49, 9, 2)
+
+// スケイルアーマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A52, 9, 2)
+
+// ラメラーアーマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A5B, 11, 2)
+
+// バンデットメイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A66, 8, 2)
+
+// チェインメイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A6E, 9, 2)
+
+// プレートメイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A77, 11, 2)
+
+// ブレストプレート
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A82, 8, 2)
+
+// シルクローブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A8A, 9, 2)
+
+// バトルアーマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A93, 11, 2)
+
+// けんじゃのローブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30A9E, 8, 2)
+
+// ガイアメイル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AA6, 8, 2)
+
+// シルフのころも
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AAE, 9, 2)
+
+// ライオスアーマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AB7, 10, 2)
+
+// スモールシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AC1, 10, 2)
+
+// ラージシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ACB, 11, 2)
+
+// ラウンドシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AD6, 9, 2)
+
+// カイトシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ADF, 9, 2)
+
+// タワーシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AE8, 7, 2)
+
+// バックラー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AEF, 10, 2)
+
+// クリスタルリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30AF9, 11, 2)
+
+// マジックシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B04, 8, 2)
+
+// にちりんのたて
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B0C, 9, 2)
+
+// アンデレのたて
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B15, 12, 2)
+
+// ゴールドシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B21, 7, 2)
+
+// アレスのたて
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B28, 10, 2)
+
+// ボーンシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B32, 10, 2)
+
+// ガンマシールド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B3C, 10, 2)
+
+// リーベラリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B46, 6, 2)
+
+// イージス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B4C, 6, 2)
+
+// ターバン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B52, 7, 2)
+
+// バンダナ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B59, 7, 2)
+
+// シルクハット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B60, 9, 2)
+
+// オープンヘルム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B69, 7, 2)
+
+// サークレット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B70, 7, 2)
+
+// デスマスク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B77, 9, 2)
+
+// シルバーヘルム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B80, 10, 2)
+
+// ゴールドヘルム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B8A, 12, 2)
+
+// ぎんのくびかざり
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B96, 8, 2)
+
+// ロビンハット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30B9E, 10, 2)
+
+// ミューズリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BA8, 8, 2)
+
+// イオズヘルム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BB0, 11, 2)
+
+// ドラゴンオーブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BBB, 8, 2)
+
+// ミストケープ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BC3, 8, 2)
+
+// スターティアラ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BCB, 8, 2)
+
+// アウラリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BD3, 11, 2)
+
+// メディカルハーブ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BDE, 11, 2)
+
+// パワータブレット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BE9, 10, 2)
+
+// ヒールポーション
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BF3, 10, 2)
+
+// ミードリキュール
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30BFD, 11, 2)
+
+// エナジーリゲイン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C08, 10, 2)
+
+// ミラクルスパイス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C12, 9, 2)
+
+// キュアマインド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C1B, 10, 2)
+
+// フォースリゲイン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C25, 7, 2)
+
+// Ｖドリンク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C2C, 6, 2)
+
+// エリクサー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C32, 5, 2)
+
+// テリアカ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C37, 10, 2)
+
+// ストーンブレイク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C41, 10, 2)
+
+// ミトリダティウム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C4B, 10, 2)
+
+// トランキライザー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C55, 8, 2)
+
+// ベラドンナ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C5D, 5, 2)
+
+// セージ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C62, 4, 2)
+
+// シィン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C66, 5, 2)
+
+// レェシュ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C6B, 7, 2)
+
+// レ・レェシュ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C72, 10, 2)
+
+// ヴォー・レェシュ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C7C, 4, 2)
+
+// サメク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C80, 6, 2)
+
+// レ・サメク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C86, 9, 2)
+
+// ヴォー・サメク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C8F, 4, 2)
+
+// テェス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C93, 6, 2)
+
+// レ・テェス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30C99, 9, 2)
+
+// ヴォー・テェス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CA2, 5, 2)
+
+// ギメル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CA7, 4, 2)
+
+// アイン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CAB, 4, 2)
+
+// ケェス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CAF, 5, 2)
+
+// ザイン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CB4, 7, 2)
+
+// ペェークゥ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CBB, 4, 2)
+
+// メェム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CBF, 5, 2)
+
+// ダレス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CC4, 4, 2)
+
+// クォフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CC8, 6, 2)
+
+// ツァダイ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CCE, 8, 2)
+
+// レ・ツァダイ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CD6, 11, 2)
+
+// ヴォー・ツァダイ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CE1, 6, 2)
+
+// ヘェートォ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CE7, 5, 2)
+
+// ベェス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CEC, 4, 2)
+
+// ヌゥン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF0, 4, 2)
+
+// カェフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF4, 5, 2)
+
+// ヨッド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CF9, 5, 2)
+
+// ヴァウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30CFE, 5, 2)
+
+// ラメド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D03, 7, 2)
+
+// レ・ラメド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D0A, 10, 2)
+
+// ヴォー・ラメド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D14, 4, 2)
+
+// アレフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D18, 4, 2)
+
+// タァウ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D1C, 10, 2)
+
+// マジックロープ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D26, 7, 2)
+
+// ばくだん
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D2D, 10, 2)
+
+// せいじゃのひかり
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D37, 8, 2)
+
+// ひいらぎのみ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D3F, 8, 2)
+
+// まもりのルーン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D47, 11, 2)
+
+// ゲッケイジュのは
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D52, 10, 2)
+
+// こうげきのルーン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D5C, 7, 2)
+
+// かえんのタネ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D63, 9, 2)
+
+// いかずちのタネ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D6C, 8, 2)
+
+// ヘビーボム
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D74, 8, 2)
+
+// エビル・アイ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D7C, 7, 2)
+
+// トリカブト
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D83, 10, 2)
+
+// スプラッタコイン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D8D, 5, 2)
+
+// Ｉ１４２
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D92, 12, 2)
+
+// ポイズンニードル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30D9E, 9, 2)
+
+// コカトリスのツメ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DA7, 7, 2)
+
+// アロマツリー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DAE, 9, 2)
+
+// うらぎりのタネ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DB7, 5, 2)
+
+// えんまく
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DBC, 10, 2)
+
+// トートのてんびん
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DC6, 11, 2)
+
+// スパイダーネット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DD1, 8, 2)
+
+// しゅうりセット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DD9, 9, 2)
+
+// きせきのしずく
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DE2, 7, 2)
+
+// おべんとう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DE9, 7, 2)
+
+// せいれいすい
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DF0, 8, 2)
+
+// アンブロシア
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30DF8, 10, 2)
+
+// どうのまねきねこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E02, 10, 2)
+
+// ぎんのまねきねこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E0C, 5, 2)
+
+// Ｉ１５７
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E11, 5, 2)
+
+// Ｉ１５８
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E16, 5, 2)
+
+// Ｉ１５９
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E1B, 5, 2)
+
+// Ｉ１６０
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E20, 5, 2)
+
+// Ｉ１６１
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E25, 5, 2)
+
+// Ｉ１６２
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E2A, 5, 2)
+
+// Ｉ１６３
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E2F, 5, 2)
+
+// Ｉ１６４
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E34, 5, 2)
+
+// Ｉ１６５
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E39, 5, 2)
+
+// Ｉ１６６
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E3E, 5, 2)
+
+// Ｉ１６７
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E43, 5, 2)
+
+// Ｉ１６８
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E48, 5, 2)
+
+// Ｉ１６９
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E4D, 5, 2)
+
+// Ｉ１７０
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E52, 5, 2)
+
+// Ｉ１７１
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E57, 5, 2)
+
+// Ｉ１７２
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E5C, 5, 2)
+
+// Ｉ１７３
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E61, 5, 2)
+
+// Ｉ１７４
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E66, 5, 2)
+
+// Ｉ１７５
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E6B, 5, 2)
+
+// Ｉ１７６
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E70, 8, 2)
+
+// トールのいかり
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E78, 10, 2)
+
+// スリープハープ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E82, 10, 2)
+
+// ドクロのメダル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E8C, 11, 2)
+
+// ポイズンロッド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30E97, 10, 2)
+
+// マジカルフルート
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EA1, 9, 2)
+
+// ブリキのたいこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EAA, 12, 2)
+
+// マッドバンジョー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EB6, 3, 2)
+
+// ムチ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EB9, 8, 2)
+
+// ホープのつえ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EC1, 9, 2)
+
+// ひとみすいしょう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ECA, 10, 2)
+
+// にじのマガタマ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30ED4, 9, 2)
+
+// ユニコーンのツノ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EDD, 9, 2)
+
+// ホーリーリング
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EE6, 11, 2)
+
+// ピコピコハンマー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EF1, 5, 2)
+
+// めがね
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EF6, 5, 2)
+
+// ルビー
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30EFB, 7, 2)
+
+// サングラス
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F02, 9, 2)
+
+// ムウオのてがみ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F0B, 8, 2)
+
+// えいえんのしょ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F13, 5, 2)
+
+// せいはい
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F18, 9, 2)
+
+// じゃしんぞう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F21, 8, 2)
+
+// めがみぞう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F29, 10, 2)
+
+// レムのエメラルド
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F33, 4, 2)
+
+// アンク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F37, 9, 2)
+
+// マリーのてがみ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F40, 7, 2)
+
+// アミュレット
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F47, 6, 2)
+
+// タリスマン
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F4D, 9, 2)
+
+// クリスタルケース
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F56, 8, 2)
+
+// マンドレーク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F5E, 7, 2)
+
+// ガスマスク
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F65, 8, 2)
+
+// ろうやのカギ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F6D, 8, 2)
+
+// そうこのカギ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F75, 8, 2)
+
+// アルミのカギ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F7D, 11, 2)
+
+// ブロンズのカギ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F88, 10, 2)
+
+// プラチナのカギ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F92, 10, 2)
+
+// ダーククリスタル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30F9C, 9, 2)
+
+// すいせんじょう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FA5, 12, 2)
+
+// おうごんのだいざ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FB1, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FBB, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FC5, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FCF, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FD9, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FE3, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FED, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x30FF7, 10, 2)
+
+// おうごんのナイフ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31001, 10, 2)
+
+// バースのてちょう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3100B, 7, 2)
+
+// きょかしょう
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31012, 8, 2)
+
+// まどうのしょ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3101A, 5, 2)
+
+// Ｉ２２６
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3101F, 5, 2)
+
+// Ｉ２２７
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31024, 5, 2)
+
+// Ｉ２２８
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31029, 5, 2)
+
+// Ｉ２２９
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3102E, 9, 2)
+
+// ぎんのこばこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31037, 8, 2)
+
+// おとめのいのり
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3103F, 10, 2)
+
+// マジカルランプ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31049, 7, 2)
+
+// ほのおのはね
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31050, 9, 2)
+
+// さびたつるぎ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31059, 11, 2)
+
+// ブロンズボトル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31064, 11, 2)
+
+// ボレアスのかがみ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x3106F, 9, 2)
+
+// ？？？カプセル
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31078, 8, 2)
+
+// アカひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31080, 8, 2)
+
+// シロひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31088, 8, 2)
+
+// クロひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31090, 8, 2)
+
+// アオひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x31098, 10, 2)
+
+// ミドリひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310A2, 9, 2)
+
+// キイロひこうせき
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310AB, 9, 2)
+
+// てんくうのコウロ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310B4, 10, 2)
+
+// ウエポンリペア
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310BE, 10, 2)
+
+// どうのまねきねこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310C8, 10, 2)
+
+// ぎんのまねきねこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310D2, 9, 2)
+
+// きんのまねきねこ
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310DB, 5, 2)
+
+// Ｉ２４９
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310E0, 5, 2)
+
+// Ｉ２５０
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310E5, 5, 2)
+
+// Ｉ２５１
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310EA, 5, 2)
+
+// Ｉ２５２
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310EF, 5, 2)
+
+// Ｉ２５３
+
+[waitend]
+
+#ENDMSG()
+
+//[TEXT]
+#STARTMSG(0x310F4, 5, 2)
+
+// Ｉ２５４
+
+[waitend]
+
+#ENDMSG()
+
+#ENDBLOCK(2)
+

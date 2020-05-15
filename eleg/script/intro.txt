@@ -1,0 +1,200 @@
+//===========================================================
+// Event script block 78
+//===========================================================
+
+#STARTBLOCK(78)
+
+//[TEXT]
+#STARTMSG(0x324F3, 558, 2)
+
+// このよで　さいしょに[br]
+// うまれたものは[br]
+// ＜カオス＞であった・・・[br]
+// ＜カオス＞より[br]
+// ＜てんくう＞と　＜だいち＞がうまれ[br]
+// さらに　＜だいち＞は[br]
+// ＜りくち＞と　＜うみ＞とを[br]
+// うみだした・・・[br]
+// やがて　＜りくち＞と　＜うみ＞は[br]
+// あらゆる＜せいめい＞を　うみだし[br]
+// ＜せいめい＞は　＜じんるい＞を[br]
+// うむに　いたった・・・[br]
+// ときは　ながれ[br]
+// ＜てんくう＞より[br]
+// ＜カミ＞が　おりたちて[br]
+// ＜にんげん＞に　＜ちえ＞と[br]
+// ＜ぎじゅつ＞を　さずけられた・・・[br]
+// ＜ちえ＞と　＜ぎじゅつ＞を[br]
+// さずかった　＜にんげん＞は[br]
+// ＜カミ＞をたたえ　そうだいな[br]
+// ＜らくえん＞を　きずき[br]
+// えいがを　きわめた・・・[br]
+// つまり　ひとびとは[br]
+// その＜らくえん＞を　こうよんだ[br]
+// ＜カミ＞に　＜しゅくふく＞されし[br]
+// ＜みやこ＞[br]
+// 『ミレニアム』　と・・・[br]
+// [br]
+// 　　　　　［えいえんのしょ］より[br]
+// [br]
+// [br]
+// [br]
+// いま　ひとりの　｛しょうねん｝が[br]
+// たびだちのときを[br]
+// むかえようとしている　しかし[br]
+// ｛しょうねん｝は　まだ　そのことを[br]
+// しるよしも　なかった・・・[br]
+// [br]
+// そして　この＜ものがたり＞は[br]
+// ｛しょうねん｝と[br]
+// かれの｛ししょう｝とが[br]
+// 『ティラとう』の＜まち＞[br]
+// 『ハーク』に　やってくるところから[br]
+// はじまる・・・・[br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+
+// The very first thing born in this world was ＜Chaos＞...
+// 
+// From ＜Chaos＞, the ＜Heavens＞ and ＜Earth＞ were born.
+// From ＜Earth＞, the ＜Lands＞ and the ＜Seas＞...
+// 
+// Soon, from the ＜Lands＞ and the ＜Seas＞, ＜Life＞ was born.
+// From ＜Life＞, ＜Mankind＞ was born...
+// 
+// Time had passed. ＜Gods＞ came down from the ＜Heavens＞ to bestow upon ＜Man＞ the gifts of ＜Wisdom＞ and ＜Technology＞...
+// 
+// Delighted with the gifts of ＜Wisdom＞ and ＜Technology＞, ＜Man＞ decided to praise the ＜Gods＞ by erecting ＜Paradise＞...
+// 
+// Thus, people built a ＜Paradise＞, and the ＜Gods＞ gave it their ＜Blessing＞. This ＜City＞ would be known as 『Millennium』...
+// 
+//      From the ［Eternal Manuscript］
+//       
+// And now, a ｛young man｝ is about to set off for a journey.
+// 
+// However, this ｛young man｝ is not yet aware of this fact...
+// 
+// The ＜tale＞ of this ｛young man｝ and his ｛master｝ begins in 『Hark』, a ＜town＞ in the 『Island of Tira』...
+
+The very first thing born
+#ENDMSG()
+in this world was ＜Chaos＞...
+#ENDMSG()
+
+#ENDMSG()
+From ＜Chaos＞, the ＜Heavens＞
+#ENDMSG()
+and ＜Earth＞ were born.
+#ENDMSG()
+From ＜Earth＞, the ＜Lands＞
+#ENDMSG()
+and the ＜Seas＞...
+#ENDMSG()
+
+#ENDMSG()
+Soon, from the ＜Lands＞ and
+#ENDMSG()
+the ＜Seas＞, ＜Life＞ was born.
+#ENDMSG()
+From ＜Life＞,
+#ENDMSG()
+＜Mankind＞ was born...
+#ENDMSG()
+
+#ENDMSG()
+Time passed.
+#ENDMSG()
+＜Gods＞ came down from
+#ENDMSG()
+the ＜Heavens＞ to bestow
+#ENDMSG()
+upon ＜Man＞ the gifts of
+#ENDMSG()
+＜Wisdom＞ and ＜Technology＞...
+#ENDMSG()
+
+#ENDMSG()
+Delighted with the gifts of
+#ENDMSG()
+＜Wisdom＞ and ＜Technology＞,
+#ENDMSG()
+＜Man＞ decided to praise
+#ENDMSG()
+the ＜Gods＞ by erecting
+#ENDMSG()
+＜Paradise＞...
+#ENDMSG()
+
+#ENDMSG()
+Thus, the people built a
+#ENDMSG()
+＜Paradise＞, and the ＜Gods＞
+#ENDMSG()
+gave it their ＜Blessing＞.
+#ENDMSG()
+This ＜City＞ would be known as
+#ENDMSG()
+『Millennium』...
+#ENDMSG()
+
+#ENDMSG()
+ - From the ［Eternal Manuscript］
+#ENDMSG()
+
+#ENDMSG()
+And now,
+#ENDMSG()
+a ｛young man｝ is about to
+#ENDMSG()
+set off on a journey.
+#ENDMSG()
+
+#ENDMSG()
+However, this ｛young man｝
+#ENDMSG()
+is not yet aware of this fact...
+#ENDMSG()
+
+#ENDMSG()
+The ＜tale＞ of this
+#ENDMSG()
+｛young man｝ and his
+#ENDMSG()
+｛master｝ begins in 『Hark』,
+#ENDMSG()
+a ＜town＞ in the
+#ENDMSG()
+『Island of Tira』...
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDMSG()
+
+#ENDBLOCK(78)
